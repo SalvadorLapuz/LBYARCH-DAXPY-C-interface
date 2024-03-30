@@ -5,7 +5,8 @@ section .text
     global daxpyAsm
 
 daxpyAsm:
-   push rsi
+   push rdi
+   push r8
    push rbp 
    mov rbp, rsp
    add rbp, 16
@@ -41,7 +42,8 @@ perform:
     
 END:
     pop rbp
-    pop rsi
+    pop r8
+    pop rdi
     ret
 
 
