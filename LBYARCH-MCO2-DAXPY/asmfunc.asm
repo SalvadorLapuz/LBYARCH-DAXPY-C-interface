@@ -5,17 +5,18 @@ section .text
     global daxpyAsm
 
 daxpyAsm:
-   push rdi
-   push r8
+   push rdi 
+   push r8  
    push rbp 
-   mov rbp, rsp
+   mov rbp, rsp 
    add rbp, 16
         xor rbx, rbx    ; initialize for int i in for loop 
         xor r12, r12    ; for vectorX indexing
         xor r13, r13    ; for vectorY indexing (yIndex)
         xor r11, r11    ; for vectorZ indexing (zIndex)
    
-        mov r10, 10      ; i = 10
+        mov r10, 10     ; i = 10
+        
    
         ; Function body
         movsd xmm1, xmm0 ; Load the scalar A into XMM1
