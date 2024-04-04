@@ -10,7 +10,8 @@
 
 <p align="justify"> The program includes a sanity check implementation in order to cross-check the resulting output of x86-64 assembly and C kernels. Suppose there are any inconsistencies between the outputs of these kernels throughout the validation process, suggesting a possible error. In that case, the program will instantly stop to ensure the integrity of the results. </p>
 
-![image](https://github.com/SalvadorLapuz/LBYARCH-DAXPY-C-interface/assets/135326621/536a0613-6004-47d6-a6f3-968e631c54ed)
+![image](https://github.com/SalvadorLapuz/LBYARCH-DAXPY-C-interface/assets/135326621/3d354ba3-ea75-4406-a765-686e5b3c0aa8)
+
 
 
 ## Comparative Analysis of Average Execution Time
