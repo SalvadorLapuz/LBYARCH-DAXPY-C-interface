@@ -8,9 +8,9 @@
 #include <time.h>
 #include <math.h>
 
-#define SIZE 1048576 // 2^20
+//#define SIZE 1048576 // 2^20
 //#define SIZE 16777216// 2^24
-//#define SIZE 536870912// 2^29
+#define SIZE 536870912// 2^29
 //#define SIZE 1073741824// 2^30
 
 int sanityCheck();
@@ -27,7 +27,7 @@ int main() {
 	double* asmZ = (double*)malloc(SIZE * sizeof(double));
 	double* X = (double*)malloc(SIZE * sizeof(double));
 	double* Y = (double*)malloc(SIZE * sizeof(double));
-	double A = 4.00;
+	double A = 2.00;
 
 	double c_time_spent = 0;
 	double asm_time_spent = 0;
@@ -36,7 +36,8 @@ int main() {
 	double asmTime[30];
 	double cTime[30];
 
-	printf("Executing C and ASM Functions...\nPrinting first 10 elements for checking...\n\n");
+	printf("Vector Size = 2^%d\n", 29);
+	printf("Executing C and ASM Functions...\n\n");
 	check = sanityCheck();
 	if (check == 0) {
 		printf("Return values from ASM and C functions don't match!\n");
