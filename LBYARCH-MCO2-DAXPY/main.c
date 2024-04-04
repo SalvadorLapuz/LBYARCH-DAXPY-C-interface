@@ -8,9 +8,9 @@
 #include <time.h>
 #include <math.h>
 
-//#define SIZE 1048576 // 2^20
+#define SIZE 1048576 // 2^20
 //#define SIZE 16777216// 2^24
-#define SIZE 536870912// 2^29
+//#define SIZE 536870912// 2^29
 //#define SIZE 1073741824// 2^30
 
 int sanityCheck();

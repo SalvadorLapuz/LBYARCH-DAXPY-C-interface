@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\audrea\\source\\repos\\LBYARCH MP2 hatdog\\LBYARCH-DAXPY-C-interface\\LBYARCH-MCO2-DAXPY\\",
+  "WorkspaceRootPath": "C:\\Users\\audrea\\Documents\\lbyarch\\LBYARCH-DAXPY-C-interface\\LBYARCH-MCO2-DAXPY\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{165948AC-7199-4CA9-9FF4-136CB1A57A98}|LBYARCH-MCO2-DAXPY.vcxproj|C:\\Users\\audrea\\source\\repos\\LBYARCH MP2 hatdog\\LBYARCH-DAXPY-C-interface\\LBYARCH-MCO2-DAXPY\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{165948AC-7199-4CA9-9FF4-136CB1A57A98}|LBYARCH-MCO2-DAXPY.vcxproj|C:\\Users\\audrea\\Documents\\lbyarch\\LBYARCH-DAXPY-C-interface\\LBYARCH-MCO2-DAXPY\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{165948AC-7199-4CA9-9FF4-136CB1A57A98}|LBYARCH-MCO2-DAXPY.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{165948AC-7199-4CA9-9FF4-136CB1A57A98}|LBYARCH-MCO2-DAXPY.vcxproj|C:\\Users\\audrea\\source\\repos\\LBYARCH MP2 hatdog\\LBYARCH-DAXPY-C-interface\\LBYARCH-MCO2-DAXPY\\asmfunc.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{165948AC-7199-4CA9-9FF4-136CB1A57A98}|LBYARCH-MCO2-DAXPY.vcxproj|C:\\Users\\audrea\\Documents\\lbyarch\\LBYARCH-DAXPY-C-interface\\LBYARCH-MCO2-DAXPY\\asmfunc.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{165948AC-7199-4CA9-9FF4-136CB1A57A98}|LBYARCH-MCO2-DAXPY.vcxproj|solutionrelative:asmfunc.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\audrea\\source\\repos\\LBYARCH MP2 hatdog\\LBYARCH-DAXPY-C-interface\\LBYARCH-MCO2-DAXPY\\main.c",
+              "DocumentMoniker": "C:\\Users\\audrea\\Documents\\lbyarch\\LBYARCH-DAXPY-C-interface\\LBYARCH-MCO2-DAXPY\\main.c",
               "RelativeDocumentMoniker": "main.c",
-              "ToolTip": "C:\\Users\\audrea\\source\\repos\\LBYARCH MP2 hatdog\\LBYARCH-DAXPY-C-interface\\LBYARCH-MCO2-DAXPY\\main.c",
+              "ToolTip": "C:\\Users\\audrea\\Documents\\lbyarch\\LBYARCH-DAXPY-C-interface\\LBYARCH-MCO2-DAXPY\\main.c",
               "RelativeToolTip": "main.c",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAwAAAABAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-03-30T13:24:20.736Z",
               "EditorCaption": ""
@@ -45,9 +45,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "asmfunc.asm",
-              "DocumentMoniker": "C:\\Users\\audrea\\source\\repos\\LBYARCH MP2 hatdog\\LBYARCH-DAXPY-C-interface\\LBYARCH-MCO2-DAXPY\\asmfunc.asm",
+              "DocumentMoniker": "C:\\Users\\audrea\\Documents\\lbyarch\\LBYARCH-DAXPY-C-interface\\LBYARCH-MCO2-DAXPY\\asmfunc.asm",
               "RelativeDocumentMoniker": "asmfunc.asm",
-              "ToolTip": "C:\\Users\\audrea\\source\\repos\\LBYARCH MP2 hatdog\\LBYARCH-DAXPY-C-interface\\LBYARCH-MCO2-DAXPY\\asmfunc.asm",
+              "ToolTip": "C:\\Users\\audrea\\Documents\\lbyarch\\LBYARCH-DAXPY-C-interface\\LBYARCH-MCO2-DAXPY\\asmfunc.asm",
               "RelativeToolTip": "asmfunc.asm",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
