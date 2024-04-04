@@ -36,7 +36,7 @@ int main() {
 	double asmTime[30];
 	double cTime[30];
 
-	printf("Vector Size = 2^%d\n", 29);
+	printf("Vector Size = 2^%d\n", 20);
 	printf("Executing C and ASM Functions...\n\n");
 	check = sanityCheck();
 	if (check == 0) {
